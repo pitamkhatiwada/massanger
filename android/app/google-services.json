@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565666122460",
+    "project_id": "fmassanger-pitam",
+    "storage_bucket": "fmassanger-pitam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565666122460:android:5473ffda4b862193a60219",
+        "android_client_info": {
+          "package_name": "com.pitam.massanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565666122460-347cs9r30jbdug8p9bsst0j0ob9n2kpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpamjGOqvTw21Lwf2Ch54OlhrbOjRCQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565666122460-347cs9r30jbdug8p9bsst0j0ob9n2kpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
